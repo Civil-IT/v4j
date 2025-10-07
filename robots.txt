@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://www.visionforjustice.org/sitemap/sitemap-index.xml
+Host: https://www.visionforjustice.org
