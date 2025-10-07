@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvision_for_justice=self.webpackChunkvision_for_justice||[]).push([[256],{1657:function(e,i,n){n.r(i);n(5697);var s=n(5893),u=function(e){return(0,s.jsx)("div",{children:"NotFoundPage"})};u.propTypes={},i.default=u}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-f9abe95183e7f8aa4169.js.map

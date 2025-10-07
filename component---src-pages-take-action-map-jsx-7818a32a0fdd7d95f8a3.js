@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvision_for_justice=self.webpackChunkvision_for_justice||[]).push([[268],{7252:function(s,e,u){u.r(e);u(5697);var i=u(3389),n=u(5893),r=function(s){return(0,n.jsx)(i.Z,{})};r.propTypes={},e.default=r}}]);
+//# sourceMappingURL=component---src-pages-take-action-map-jsx-7818a32a0fdd7d95f8a3.js.map
